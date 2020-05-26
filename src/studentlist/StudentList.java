@@ -16,10 +16,10 @@ public class StudentList {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("A simple app");
+        System.out.println("A simple app - Mustafa -");
 
         // create an array of 2 Students
-        Student[] students = new Student[2];
+        Student[] students = new Student[5];
 
         for (int i = 0; i < students.length; i++) {
 
