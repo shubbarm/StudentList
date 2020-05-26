@@ -3,7 +3,7 @@ package studentlist;
 /**
  * This class is to represent a Student in our app
  *
- * @author Paul Bonenfant
+ * @author Mustafa Shubbar // Changed for testing
  * A change directly by github master to test pull and fetch
  */
 public class Student {
