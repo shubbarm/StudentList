@@ -8,6 +8,11 @@ package studentlist;
 public class Student {
     
     private String name;
+    private int ID;
+
+    public int getID() {
+        return ID;
+    }
 
     public Student(String name) {
         this.name = name;
@@ -19,6 +24,10 @@ public class Student {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public void setID(int ID) {
+        this.ID = ID;
     }
     
     
